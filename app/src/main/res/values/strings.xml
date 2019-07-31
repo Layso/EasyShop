@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Easy Shop</string>
+
+    <string name="login_activity_title">Sign In</string>
+    <string name="email_hint">E-Mail</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Sign In</string>
+    <string name="register_charm">You don\'t have an account yet?</string>
+    <string name="register_tab_button">Sign Up</string>
+
+    <string name="register_activity_title">Sign Up</string>
+    <string name="password_again_hint">Retype Password</string>
+    <string name="register_button">Sign Up</string>
+    <string name="login_charm">You already created an account?</string>
+    <string name="login_tab_button">Sign In</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="bill_item_hint_id">ID</string>
+    <string name="bill_item_hint_product">Product</string>
+    <string name="bill_item_hint_brand">Brand</string>
+    <string name="bill_item_hint_quantity">Quantity</string>
+    <string name="bill_item_hint_unit">Unit</string>
+    <string name="bill_item_hint_euro">Euro</string>
+    <string name="bill_item_hint_cent">Cent</string>
+</resources>
